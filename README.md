@@ -9,7 +9,7 @@
 
 An active Interlock ransomware campaign is exploiting a critical vulnerability (CVE-2026-20131) in Cisco Secure Firewall Management Center (FMC), enabling unauthenticated remote code execution as root. The campaign combines edge-device exploitation, custom malware tooling, and double extortion tactics, indicating a mature and targeted ransomware operation. 
 
- The **Outbreak Response - Interlock Ransomware Attack** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.0.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
+ The **Outbreak Response - Interlock Ransomware Attack** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.3.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
 
  The [FortiGuard Outbreak Page](https://www.fortiguard.com/outbreak-alert/interlock-ransomware) contains information about the outbreak alert **Outbreak Response - Interlock Ransomware Attack**. 
 
